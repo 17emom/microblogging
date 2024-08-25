@@ -19,6 +19,7 @@
 
     <modules>
         <module>ms_usuario</module>
+        <module>ms_publicacion</module>
     </modules>
 
 </project>

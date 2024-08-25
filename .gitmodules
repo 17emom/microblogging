@@ -1,0 +1,6 @@
+[submodule "ms_publicacion"]
+	path = ms_publicacion
+	url = https://github.com/17emom/ms_publicacion.git
+[submodule "ms_usuario"]
+	path = ms_usuario
+	url = https://github.com/17emom/ms_usuario.git
