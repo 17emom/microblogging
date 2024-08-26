@@ -23,5 +23,7 @@ https://github.com/17emom/microblogging/tree/master/doc/Base%20de%20datos
 
 # Diagramas
 ### DER
-![img.png](doc/imagenes%20readme/img.png)
+![img.png](doc/imagenes%20readme/DER.png)
 
+### Diagra de una posible infraestructura en prod
+![img.png](doc/imagenes%20readme/Diagrama posible infraestructura de prod.png)
