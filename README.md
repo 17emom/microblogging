@@ -31,6 +31,8 @@ https://github.com/17emom/microblogging/tree/master/doc/Base%20de%20datos
 
 # Diagramas
 ### DER
+**Aclaración:** se utiliza una única base de datos para simplificar el trabajo en local pero cada servicio dispone de una configuración individual para conectarse a una base de datos por lo que podrían ser distintas. En ese caso la tabla PUBLICACION no tendría una FK con la tabla USUARIO.
+
 ![img.png](doc/imagenes%20readme/DER.png)
 
 ### Diagra de una posible infraestructura en prod
