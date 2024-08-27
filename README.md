@@ -21,9 +21,16 @@ Una vez realizado esto se deberán utilizar los archivos schema.sql y data.sql p
 >/doc/Base de datos/
 https://github.com/17emom/microblogging/tree/master/doc/Base%20de%20datos
 
+## Diagramas casos solicitados
+### Seguir usuario
+![Diagrama de secuencia - Seguir usuario.png](doc%2Fimagenes%20readme%2FDiagrama%20de%20secuencia%20-%20Seguir%20usuario.png)
+
 # Diagramas
 ### DER
 ![img.png](doc/imagenes%20readme/DER.png)
 
 ### Diagra de una posible infraestructura en prod
 ![Diagrama posible infraestructura de prod.png](doc%2Fimagenes%20readme%2FDiagrama%20posible%20infraestructura%20de%20prod.png)
+
+### Diagramas
+Todos los diagramas mostrados en este readme se encuentran en la carpeta /doc
