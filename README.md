@@ -26,6 +26,8 @@ https://github.com/17emom/microblogging/tree/master/doc/Base%20de%20datos
 ![Diagrama de secuencia - Seguir usuario.png](doc%2Fimagenes%20readme%2FDiagrama%20de%20secuencia%20-%20Seguir%20usuario.png)
 ### Crear publicación
 ![Diagrama de secuencia-Crear publicación.png](doc%2Fimagenes%20readme%2FDiagrama%20de%20secuencia-Crear%20publicaci%C3%B3n.png)
+### Obtener timeline
+![Diagrama de secuencia - Obtener timeline.png](doc%2Fimagenes%20readme%2FDiagrama%20de%20secuencia%20-%20Obtener%20timeline.png)
 
 # Diagramas
 ### DER
